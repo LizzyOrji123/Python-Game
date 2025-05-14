@@ -31,7 +31,7 @@ Ensure you have **Python 3.7+** installed.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/Python-Game.git
-   cd rock-paper-scissors
+   cd Python-Game
    ```
 2. **Run the game**:
    ```bash
